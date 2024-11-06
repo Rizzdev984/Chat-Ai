@@ -38,6 +38,6 @@
     ]
   },
   "engines": {
-    "node": "14.x" // atau versi yang sesuai dengan kebutuhan Anda
+    "node": "14.x"
   }
 }
